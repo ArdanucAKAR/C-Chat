@@ -12,6 +12,7 @@ $ bash reader.sh
 şeklinde öncedeb hazırlanmış komutları çalıştırın.
 
 Artık konuşmaya hazırsınız.
+
 WRITER
 ![GitHub Logo](https://i.hizliresim.com/ikCFA2.png)
 
