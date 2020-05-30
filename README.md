@@ -1,5 +1,5 @@
 # C-Chat
-![GitHub Logo](https://lh4.googleusercontent.com/uILWubkjvRMKtO2GqYGRTg8sVvp4UXtpG8b7VOiusgSSdCYpU_bC-kceEFT4JjPlGBh0CnQ7hrxcM4--WcKG=w4096-h2338-rw)
+![GitHub Logo](https://r.resimlink.com/z8vr0.png)
 # Nasıl Çalışır
 Terminal programını açıp 
 ```sh
@@ -14,7 +14,7 @@ $ bash reader.sh
 Artık konuşmaya hazırsınız.
 
 WRITER
-![GitHub Logo](https://lh3.googleusercontent.com/Djdg6X1zbWVhQ8lHJYffGwSJm0A9FyHl0ioZqLHNaOMpLtccYag8qZxjdlLDizWbk3JB2MV4jRIW3iddpIA8=w4096-h2338-rw)
+![GitHub Logo](https://r.resimlink.com/NzimE.png)
 
 READER
-![GitHub Logo](https://lh5.googleusercontent.com/tfd5LjctYLDtEjEvMPLcl8ksYDrFfyPI2hcGZPoQEAvk_Ob_SVQesGWU5oNfC1tXyaDlwvAqxKvl0w28YTn1=w4096-h2338-rw)
+![GitHub Logo](https://r.resimlink.com/wc2p.png)
