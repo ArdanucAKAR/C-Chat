@@ -1,5 +1,5 @@
 # C-Chat
-![GitHub Logo](https://r.resimlink.com/z8vr0.png)
+![GitHub Logo](https://github.com/ArdanucAKAR/C-Chat/blob/master/c-chat.png)
 # Nasıl Çalışır
 Terminal programını açıp 
 ```sh
@@ -14,7 +14,7 @@ $ bash reader.sh
 Artık konuşmaya hazırsınız.
 
 WRITER
-![GitHub Logo](https://r.resimlink.com/NzimE.png)
+![GitHub Logo](https://github.com/ArdanucAKAR/C-Chat/blob/master/Ekran%20Resmi%202020-05-25%2018.28.32.png)
 
 READER
-![GitHub Logo](https://r.resimlink.com/wc2p.png)
+![GitHub Logo](https://github.com/ArdanucAKAR/C-Chat/blob/master/Ekran%20Resmi%202020-05-25%2018.28.05.png)
