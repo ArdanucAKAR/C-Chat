@@ -14,7 +14,7 @@ $ bash reader.sh
 Artık konuşmaya hazırsınız.
 
 WRITER
-![GitHub Logo](https://github.com/ArdanucAKAR/C-Chat/blob/master/Ekran%20Resmi%202020-05-25%2018.28.32.png)
+![GitHub Logo](https://github.com/ArdanucAKAR/C-Chat/blob/master/Ekran%20Resmi%202020-05-25%2018.28.05.png)
 
 READER
-![GitHub Logo](https://github.com/ArdanucAKAR/C-Chat/blob/master/Ekran%20Resmi%202020-05-25%2018.28.05.png)
+![GitHub Logo](https://github.com/ArdanucAKAR/C-Chat/blob/master/Ekran%20Resmi%202020-05-25%2018.28.32.png)
